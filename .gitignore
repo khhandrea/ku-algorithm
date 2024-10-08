@@ -1,1 +1,5 @@
+# Ignore binary files (without exetension)
+*
+!*.*
+
 .ipynb_checkpoints/
