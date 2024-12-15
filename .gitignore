@@ -1,3 +1,5 @@
 # Ignore binary files (without exetension)
 .DS_Store
 .ipynb_checkpoints/
+HW1/dijkstra
+HW1/prim
